@@ -1,0 +1,4 @@
+cd base_wallet_scan
+npm run dev
+
+http://localhost:5175/#/base
